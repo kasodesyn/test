@@ -33,14 +33,14 @@ const Mint = () => {
       {/* mint */}
       <div className='mint-space-20' />
       <div className='mint-btn-wrap flex-center'>
+        <div className='flex-center'>
+          <Image type='window' width="100%" />
+        </div>
         <div className='flex-center mint-btn-content'>
           <div onClick={handlerDecrement} className='btn mint-decrement'>-</div>
           <div value={value} className='btn flex-center mint-num'>{value}</div>
           <div onClick={handlerIncrement} className='btn mint-increment'>+</div>
           <div onClick={mintNft} className='btn mint-btn'>mint</div>
-        </div>
-        <div className='flex-center'>
-          <Image type='window' />
         </div>
       </div>
       {/* container */}

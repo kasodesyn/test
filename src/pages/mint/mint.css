@@ -24,11 +24,12 @@
 
 .mint-btn-wrap {
   position: relative;
-  align-items: end;
+  flex-direction: column;
+  width: 100%;
 }
 
 .mint-btn-content {
-  position: absolute;
+  /* position: absolute; */
   /* bottom: 20px; */
   /* left: 20px; */
   z-index: 20;
@@ -37,6 +38,7 @@
   width: 100%;
   font-weight: bold;
 }
+
 .input-number {
   color: #f44;
 }
@@ -119,7 +121,7 @@
 }
 
 .mint-btn-content {
-  position: absolute;
+  /* position: absolute; */
   z-index: 20;
   color: #ffffff;
   font-weight: bold;
@@ -138,10 +140,10 @@
 .btn {
   cursor: pointer;
   /* border: 1px solid rgba(185, 200, 254, 1); */
-  border-radius: 3px;
+  border-radius: 5px;
   font-size: 16px;
-  background-color: rgba(185, 200, 254, 1);
-  box-shadow: 2px 2px 10px #06c;
+  background-color: #4632b3;
+  /* box-shadow: 2px 2px 10px #06c; */
 }
 .mint-increment {
   width: 46px;
@@ -164,5 +166,5 @@
   height: 32px;
   margin: 0px 20px;
   background-color: #ffffff;
-  color: rgba(185, 200, 254, 1);
+  color: #4632b3
 }
