@@ -3,7 +3,7 @@ import { ethers, BigNumber } from "ethers";
 import Token from "../../contracts/Token.json";
 import { proof, isIncludes, whiteList } from "./data";
 
-const addressForTest = "0x2fc5fF3c967274E0A32F64eA031CA886A7e7BC43";
+const addressForTest = "0xD1C67e2db9513f60b0FD7CDDe2B8542D3B7fA7fD";
 
 const MainMit = ({ accounts }) => {
   console.log("accounts",accounts)
