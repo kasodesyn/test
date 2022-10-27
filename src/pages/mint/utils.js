@@ -3,7 +3,7 @@ import { ethers, BigNumber } from "ethers";
 import Token from "../../contracts/Token.json";
 import { proof, isIncludes, whiteList } from "./data";
 
-const addressForTest = "0xD1C67e2db9513f60b0FD7CDDe2B8542D3B7fA7fD";
+const addressForTest = "0x09dc19bab4515d45df8041faf3ee344965d24f99";
 
 const MainMit = ({ accounts }) => {
   console.log("accounts",accounts)
@@ -64,7 +64,7 @@ const MainMit = ({ accounts }) => {
     }
   }
   async function handleMintWhiteList() {
-    handleMintGuest(0.1)
+    handleMintGuest(0.05)
   }
 
   // -
