@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a37ebf6f.chunk.css",
-    "main.js": "/static/js/main.ff4bd908.chunk.js",
-    "main.js.map": "/static/js/main.ff4bd908.chunk.js.map",
+    "main.css": "/static/css/main.9b175a95.chunk.css",
+    "main.js": "/static/js/main.037af832.chunk.js",
+    "main.js.map": "/static/js/main.037af832.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6e46df78.js",
     "runtime-main.js.map": "/static/js/runtime-main.6e46df78.js.map",
     "static/js/2.8860fccb.chunk.js": "/static/js/2.8860fccb.chunk.js",
     "static/js/2.8860fccb.chunk.js.map": "/static/js/2.8860fccb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a37ebf6f.chunk.css.map": "/static/css/main.a37ebf6f.chunk.css.map",
+    "static/css/main.9b175a95.chunk.css.map": "/static/css/main.9b175a95.chunk.css.map",
     "static/js/2.8860fccb.chunk.js.LICENSE.txt": "/static/js/2.8860fccb.chunk.js.LICENSE.txt",
     "static/media/mint.1affda3f.jpg": "/static/media/mint.1affda3f.jpg",
     "static/media/nft_1.9e59c189.jpg": "/static/media/nft_1.9e59c189.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.6e46df78.js",
     "static/js/2.8860fccb.chunk.js",
-    "static/css/main.a37ebf6f.chunk.css",
-    "static/js/main.ff4bd908.chunk.js"
+    "static/css/main.9b175a95.chunk.css",
+    "static/js/main.037af832.chunk.js"
   ]
 }
